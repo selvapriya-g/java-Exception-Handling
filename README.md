@@ -4,9 +4,9 @@ This repository contains Java programs created to practice and understand **Exce
 
 ## Concepts Covered
 
-* `try-catch` block
-* `finally` block
-* `ArithmeticException`
+* try-catch block
+* finally block
+* ArithmeticException
 * Multiple exception handling
 * Checked exceptions
 * Unchecked exceptions
